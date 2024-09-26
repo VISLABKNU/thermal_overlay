@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mobinn/cartographer_ws/install_isolated/include/**",
+        "/home/mobinn/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/mobinn/catkin_ws/src/ar/src/action_recognition/include/**",
+        "/home/mobinn/catkin_ws/src/cameras/camera_module/include/**",
+        "/home/mobinn/catkin_ws/src/fire_detection/include/**",
+        "/home/mobinn/catkin_ws/src/following_robot/src/follow_human/include/**",
+        "/home/mobinn/catkin_ws/src/mobinn_4w/mobinn_4w_bringup/include/**",
+        "/home/mobinn/catkin_ws/src/mobinn_4w/mobinn_4w_slam/include/**",
+        "/home/mobinn/catkin_ws/src/mobinn_msgs/include/**",
+        "/home/mobinn/catkin_ws/src/ocam/src/ocam/include/**",
+        "/home/mobinn/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/mobinn/catkin_ws/src/mobinn_4w/sound_play/include/**",
+        "/home/mobinn/catkin_ws/src/thermal_overlay/include/**",
+        "/home/mobinn/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/mobinn/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/mobinn/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

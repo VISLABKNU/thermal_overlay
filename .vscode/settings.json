@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mobinn/cartographer_ws/install_isolated/lib/python3/dist-packages",
+        "/home/mobinn/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mobinn/cartographer_ws/install_isolated/lib/python3/dist-packages",
+        "/home/mobinn/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
